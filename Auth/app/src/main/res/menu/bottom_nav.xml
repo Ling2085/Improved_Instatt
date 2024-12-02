@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/lecturerFragment1"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/lecturerFragment2"
+        android:icon="@drawable/baseline_class_24"
+        android:title="Classes" />
+    <item android:title="Absent Form"
+        android:id="@+id/lecturerFragment3"
+        android:icon="@drawable/baseline_format_list_bulleted_24"/>
+</menu>
