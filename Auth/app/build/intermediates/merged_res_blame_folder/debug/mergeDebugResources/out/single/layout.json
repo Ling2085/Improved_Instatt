@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/fragment_lecturer3.xml",
+        "source": "com.example.auth.app-main-69:/layout/fragment_lecturer3.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_absent_form_lecturer.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_absent_form_lecturer.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/rv_history.xml",
+        "source": "com.example.auth.app-main-69:/layout/rv_history.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/rv_user.xml",
+        "source": "com.example.auth.app-main-69:/layout/rv_user.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_absent_form_history_lecturer.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_absent_form_history_lecturer.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_second.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/fragment_student1.xml",
+        "source": "com.example.auth.app-main-69:/layout/fragment_student1.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_sign_in.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/rv_class.xml",
+        "source": "com.example.auth.app-main-69:/layout/rv_class.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_student.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_student.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_settings.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_qrcode.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_qrcode.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_lecturer.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_lecturer.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/nav_drawer_header.xml",
+        "source": "com.example.auth.app-main-69:/layout/nav_drawer_header.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/rv_student_allclass.xml",
+        "source": "com.example.auth.app-main-69:/layout/rv_student_allclass.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/fragment_lecturer2.xml",
+        "source": "com.example.auth.app-main-69:/layout/fragment_lecturer2.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_about_us.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/dialog_searchable_spinner.xml",
+        "source": "com.example.auth.app-main-69:/layout/dialog_searchable_spinner.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/fragment_student3.xml",
+        "source": "com.example.auth.app-main-69:/layout/fragment_student3.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/dialog_class_list.xml",
+        "source": "com.example.auth.app-main-69:/layout/dialog_class_list.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/fragment_lecturer1.xml",
+        "source": "com.example.auth.app-main-69:/layout/fragment_lecturer1.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/activity_absent_form_history_student.xml",
+        "source": "com.example.auth.app-main-69:/layout/activity_absent_form_history_student.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/rv_history_lecturer.xml",
+        "source": "com.example.auth.app-main-69:/layout/rv_history_lecturer.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/fragment_student2.xml",
+        "source": "com.example.auth.app-main-69:/layout/fragment_student2.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/rv_class_lecturer.xml",
+        "source": "com.example.auth.app-main-69:/layout/rv_class_lecturer.xml"
+    },
+    {
+        "merged": "com.example.auth.app-mergeDebugResources-66:/layout/rv_dialog_student.xml",
+        "source": "com.example.auth.app-main-69:/layout/rv_dialog_student.xml"
+    }
+]

@@ -1,0 +1,5 @@
+com.example.auth.test.app-core-1.6.1-0 C:\Users\USER\.gradle\caches\transforms-4\0656bf6e6dab6f3aa38d8873ace66606\transformed\core-1.6.1\res
+com.example.auth.test.app-androidTest-1 C:\Users\USER\AndroidStudioProjects\Auth\app\build\generated\res\resValues\androidTest\debug
+com.example.auth.test.app-mergeDebugAndroidTestResources-2 C:\Users\USER\AndroidStudioProjects\Auth\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.auth.test.app-mergeDebugAndroidTestResources-3 C:\Users\USER\AndroidStudioProjects\Auth\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.auth.test.app-debugAndroidTest-4 C:\Users\USER\AndroidStudioProjects\Auth\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

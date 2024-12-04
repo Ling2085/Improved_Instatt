@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav2"
+    app:startDestination="@id/lecturerFragment1">
+
+    <fragment
+        android:id="@+id/lecturerFragment1"
+        android:name="com.example.auth.lecturerActivityFile.LecturerFragment1"
+        android:label="fragment_lecturer1"
+        tools:layout="@layout/fragment_lecturer1" />
+    <fragment
+        android:id="@+id/lecturerFragment2"
+        android:name="com.example.auth.lecturerActivityFile.AllClassFragmentLecturer"
+        android:label="fragment_lecturer2"
+        tools:layout="@layout/fragment_lecturer2" />
+    <fragment
+        android:id="@+id/lecturerFragment3"
+        android:name="com.example.auth.lecturerActivityFile.AbsentFormLecturerFragment"
+        android:label="fragment_lecturer3"
+        tools:layout="@layout/fragment_lecturer3" />
+</navigation>
